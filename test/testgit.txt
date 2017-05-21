@@ -2,3 +2,4 @@ this is test for atom git.
 test
 add some info.
 hhhhhhh
+this is new addd.
